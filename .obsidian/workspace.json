@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "64a75888d8a3a22f",
+    "type": "split",
+    "children": [
+      {
+        "id": "794fc2fce1f3226e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1449ce2f022b264e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LEC34 Final Review.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LEC34 Final Review"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e4a1231995032d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "04733e7d433f0b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce9b80c729cf220",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "085401ee8fc6a485",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dd65b3adc1dc88a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "726aac6a6e1282d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed3910f6d9c50180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ff436f56a20227",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unit1 Vectors and Matrices/S9 Matrix Multiplication.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "S9 Matrix Multiplication 的反向链接列表"
+            }
+          },
+          {
+            "id": "eabe25e4d433eac3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unit1 Vectors and Matrices/S9 Matrix Multiplication.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "S9 Matrix Multiplication 的出链列表"
+            }
+          },
+          {
+            "id": "41b3e03a87ef22b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "482f8a648134a5b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unit1 Vectors and Matrices/S9 Matrix Multiplication.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "S9 Matrix Multiplication 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1449ce2f022b264e",
+  "lastOpenFiles": [
+    "Unit4 Triple Integrals/LEC32 Stokes' Theorem2.pdf",
+    "LEC34 Final Review.pdf",
+    "Unit4 Triple Integrals/LEC31 Stokes' Theorem.pdf",
+    "Unit4 Triple Integrals/LEC30 Line Integral in Space.pdf",
+    "Unit4 Triple Integrals/LEC29 Divergence theorem application.pdf",
+    "Unit4 Triple Integrals/LEC28 Divergence theorem.pdf",
+    "Unit4 Triple Integrals/LEC27 Vector Fields in space.pdf",
+    "Unit4 Triple Integrals/LEC26 Spherical coordinates.pdf",
+    "Unit4 Triple Integrals/LEC25 Triple Integrals.pdf",
+    "Unit4 Triple Integrals",
+    "Unit3 Double Integrals and Line Intergrals in the Plane/LEC24 Review Unit2.pdf",
+    "README.md"
+  ]
+}
